@@ -8,9 +8,9 @@
   **A community-curated collection of video generation prompts for [HappyHorse](https://happyhorses.io)**
 
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-  [![GitHub stars](https://img.shields.io/github/stars/Ericgood/happyhorse-prompts?style=social)](https://github.com/Ericgood/happyhorse-prompts)
+  [![GitHub stars](https://img.shields.io/github/stars/Ericgood/happyhorse-prompt?style=social)](https://github.com/Ericgood/happyhorse-prompt)
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Ericgood/happyhorse-prompts/pulls)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Ericgood/happyhorse-prompt/pulls)
 
 </div>
 
@@ -239,7 +239,7 @@ Your full prompt text here...
 
 ### Submit via Issue
 
-Don't want to deal with PRs? Just [open an issue](https://github.com/Ericgood/happyhorse-prompts/issues/new) with your prompt and we'll add it for you!
+Don't want to deal with PRs? Just [open an issue](https://github.com/Ericgood/happyhorse-prompt/issues/new) with your prompt and we'll add it for you!
 
 ### Guidelines
 
@@ -259,8 +259,8 @@ This project is licensed under [CC BY 4.0](https://creativecommons.org/licenses/
 - 🐴 [HappyHorse Official Website](https://happyhorses.io)
 - 📰 [36Kr: HappyHorse Deep Dive](https://eu.36kr.com/en/p/3757826958635781)
 - 📊 [Artificial Analysis Video Arena](https://artificialanalysis.ai/)
-- 💬 [Discussions](https://github.com/Ericgood/happyhorse-prompts/discussions)
-- 🐛 [Report Issues](https://github.com/Ericgood/happyhorse-prompts/issues)
+- 💬 [Discussions](https://github.com/Ericgood/happyhorse-prompt/discussions)
+- 🐛 [Report Issues](https://github.com/Ericgood/happyhorse-prompt/issues)
 
 ---
 

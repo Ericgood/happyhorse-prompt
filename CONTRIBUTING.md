@@ -48,7 +48,7 @@ Your prompt text here...
 
 ### 2. Open an Issue
 
-If you'd rather not submit a PR, [open an issue](https://github.com/Ericgood/happyhorse-prompts/issues/new) with:
+If you'd rather not submit a PR, [open an issue](https://github.com/Ericgood/happyhorse-prompt/issues/new) with:
 
 - Your prompt text
 - The model used

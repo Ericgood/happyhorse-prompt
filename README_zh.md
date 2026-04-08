@@ -8,9 +8,9 @@
   **社区驱动的 [HappyHorse](https://happyhorses.io) AI 视频生成提示词开源库**
 
   [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-  [![GitHub stars](https://img.shields.io/github/stars/Ericgood/happyhorse-prompts?style=social)](https://github.com/Ericgood/happyhorse-prompts)
+  [![GitHub stars](https://img.shields.io/github/stars/Ericgood/happyhorse-prompt?style=social)](https://github.com/Ericgood/happyhorse-prompt)
   [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Ericgood/happyhorse-prompts/pulls)
+  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Ericgood/happyhorse-prompt/pulls)
 
 </div>
 
@@ -239,7 +239,7 @@ date: 2026-04-09
 
 ### 通过 Issue 提交
 
-不想提 PR？直接[提交 Issue](https://github.com/Ericgood/happyhorse-prompts/issues/new)，附上你的提示词，我们会帮你添加！
+不想提 PR？直接[提交 Issue](https://github.com/Ericgood/happyhorse-prompt/issues/new)，附上你的提示词，我们会帮你添加！
 
 ### 投稿规范
 
@@ -259,8 +259,8 @@ date: 2026-04-09
 - 🐴 [HappyHorse 官方网站](https://happyhorses.io)
 - 📰 [36Kr：HappyHorse 深度解析](https://eu.36kr.com/en/p/3757826958635781)
 - 📊 [Artificial Analysis 视频竞技场](https://artificialanalysis.ai/)
-- 💬 [讨论区](https://github.com/Ericgood/happyhorse-prompts/discussions)
-- 🐛 [反馈问题](https://github.com/Ericgood/happyhorse-prompts/issues)
+- 💬 [讨论区](https://github.com/Ericgood/happyhorse-prompt/discussions)
+- 🐛 [反馈问题](https://github.com/Ericgood/happyhorse-prompt/issues)
 
 ---
 
