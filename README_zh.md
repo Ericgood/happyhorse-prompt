@@ -93,9 +93,11 @@ A hula hoop spinning on a kid's waist, gradually climbing to their chest, then d
 to knees, then clattering to the floor. They pick it up to try again.
 ```
 
-#### 🎬 视频
-
 <div align="center">
+  <a href="videos/hula-hoop-kid.mp4">
+    <img src="assets/thumbnails/hula-hoop-kid.jpg" width="700" alt="呼啦圈小孩 - 预览">
+  </a>
+  <br>
   <a href="videos/hula-hoop-kid.mp4">📥 下载视频</a> ・ <a href="https://x.com/i/status/2041591993386856448">🐦 源推文</a>
 </div>
 
@@ -114,9 +116,11 @@ A golf ball in a cup rolling around the rim three times before finally dropping 
 The golfer's body language matches each rotation. Audio: Ball rattle, exhale, plop.
 ```
 
-#### 🎬 视频
-
 <div align="center">
+  <a href="videos/golf-ball-putt.mp4">
+    <img src="assets/thumbnails/golf-ball-putt.jpg" width="700" alt="高尔夫推杆 - 预览">
+  </a>
+  <br>
   <a href="videos/golf-ball-putt.mp4">📥 下载视频</a> ・ <a href="https://x.com/i/status/2041591995106521352">🐦 源推文</a>
 </div>
 
@@ -135,9 +139,11 @@ A cat staring at its own reflection in a toaster, paw tapping the chrome surface
 The distorted cat reflection taps back. Audio: Paw taps, confused meow.
 ```
 
-#### 🎬 视频
-
 <div align="center">
+  <a href="videos/cat-toaster-reflection.mp4">
+    <img src="assets/thumbnails/cat-toaster-reflection.jpg" width="700" alt="猫咪与烤面包机 - 预览">
+  </a>
+  <br>
   <a href="videos/cat-toaster-reflection.mp4">📥 下载视频</a> ・ <a href="https://x.com/i/status/2041591996754903188">🐦 源推文</a>
 </div>
 
@@ -160,9 +166,11 @@ the boundary. Audio: The gentle pour of liquid, the hiss of the steam wand in th
 background.
 ```
 
-#### 🎬 视频
-
 <div align="center">
+  <a href="videos/barista-latte-art.mp4">
+    <img src="assets/thumbnails/barista-latte-art.jpg" width="700" alt="咖啡师拉花 - 预览">
+  </a>
+  <br>
   <a href="videos/barista-latte-art.mp4">📥 下载视频</a> ・ <a href="https://x.com/i/status/2041591999061758171">🐦 源推文</a>
 </div>
 
@@ -181,9 +189,11 @@ A flower blooming and wilting over two weeks, one photo per day. Same vase, same
 same angle. Light changes with weather. Audio: Quiet domestic.
 ```
 
-#### 🎬 视频
-
 <div align="center">
+  <a href="videos/flower-bloom-timelapse.mp4">
+    <img src="assets/thumbnails/flower-bloom-timelapse.jpg" width="700" alt="花开花落延时 - 预览">
+  </a>
+  <br>
   <a href="videos/flower-bloom-timelapse.mp4">📥 下载视频</a> ・ <a href="https://x.com/i/status/2039462980715524457">🐦 源推文</a>
 </div>
 
