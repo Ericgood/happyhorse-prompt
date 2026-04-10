@@ -22,7 +22,7 @@
 
 ### Key Highlights
 
-- 🏆 **#1 on AI Video Arena** — Elo 1333 (Text-to-Video), Elo 1392 (Image-to-Video)
+- 🏆 **#1 on AI Video Arena** — Elo 1389 (Text-to-Video), Elo 1416 (Image-to-Video)
 - ⚡ **~10s Average Generation** — Fastest in class, 8 denoising steps via DMD-2
 - 🎨 **50+ Visual Styles** — Cinematic, anime, documentary, commercial, sci-fi, and more
 - 🎬 **Up to 15 Seconds** — Native 480p / 720p / 1080p output (no upscaling)
@@ -51,13 +51,15 @@ The model uses a **single-stream self-attention Transformer** where text tokens,
 
 ### How It Compares
 
-| Model | T2V Elo | Notes |
-|:---|:---:|:---|
-| **HappyHorse-1.0** | **1333** | Open source, joint audio-video |
-| Seedance 2.0 (720p) | 1273 | ByteDance, leads in audio sync |
-| SkyReels V4 | 1244 | $7.20/min |
-| Kling 3.0 1080p Pro | 1241 | $13.44/min |
-| PixVerse V6 | 1239 | $5.40/min |
+| Model | T2V Elo | I2V Elo | Notes |
+|:---|:---:|:---:|:---|
+| **HappyHorse-1.0** | **1,389** | **1,416** | Open source, Alibaba ATH |
+| Seedance 2.0 (720p) | 1,274 | 1,358 | ByteDance |
+| SkyReels V4 | 1,244 | 1,296 | Skywork AI |
+| Kling 3.0 1080p Pro | 1,243 | — | KlingAI |
+| grok-imagine-video | 1,229 | 1,333 | xAI |
+
+*Updated April 10, 2026. Source: [Artificial Analysis Video Arena](https://artificialanalysis.ai/video/leaderboard/text-to-video)*
 
 ### The Origin Story
 
